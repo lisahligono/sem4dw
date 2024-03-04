@@ -5,46 +5,6 @@ This is a LULC dataset provided by Google and the World Resources Institute. The
 
 <img width="394" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/23aaf634-191d-4941-8dd7-ddb2e6a69f23">
 
-Index
-Name
-Description
-Color
-0
-Water
-Estimated probability of complete coverage by water
-#419bdf
-1
-Trees
-Estimated probability of complete coverage by trees
-#397d49
-2
-Grass
-Estimated probability of complete coverage by grass
-#88b053
-3
-Flooded vegetation
-Estimated probability of complete coverage by flooded vegetation
-#7a87c6
-4
-Crops
-Estimated probability of complete coverage by crops
-#e49635
-5
-Shrub and scrub
-Estimated probability of complete coverage by shrub and scrub
-#dfc35a
-6
-Built
-Estimated probability of complete coverage by built
-#c4281b
-7
-Bare
-Estimated probability of complete coverage by bare
-#a59b8f
-8
-Snow and ice
-Estimated probability of complete coverage by snow and ice
-#b39fe1
 <img width="660" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
 
 

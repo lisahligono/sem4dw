@@ -5,7 +5,7 @@ This is a LULC dataset provided by Google and the World Resources Institute. The
 
 <div style="display: flex;">
 <img width="394" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/23aaf634-191d-4941-8dd7-ddb2e6a69f23"> 
-<img width="460" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
+<img width="560" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
 </div>
 
 

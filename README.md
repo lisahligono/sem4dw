@@ -15,15 +15,10 @@ The main objective of this project is to showcase how semantic querying can enha
 <img width="485" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/8db2bf6f-a28c-41f8-96d8-8db5819ebb28">
 
 
-Implementation Steps:
+**Concept:**
 
-Establish connection to the Dynamic World dataset via Google Earth Engine (GEE).
-Utilize the semantique Python package for semantic querying.
-Define layout, mapping, and query recipe for the semantic querying process.
-Perform analysis on the selected area (e.g., Lake Baringo) to study water dynamics using semantic querying techniques.
-Visualize the results to identify temporal and spatial patterns in surface water dynamics.
-Results:
-The project demonstrates the effectiveness of semantic querying in analyzing the Dynamic World dataset. By employing semantic querying techniques, users can gain deeper insights into temporal and spatial dynamics of land cover classes, beyond simple mode-based classification.
+<img width="485" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/08eac21d-2695-4cae-961a-8aec468567ff">
+
 
 ## Future Directions:
 

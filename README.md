@@ -24,11 +24,12 @@ The main objective of this project is to showcase how semantic querying can enha
 
 ## Future Directions
 
-Integration of semantic querying framework directly into Google Earth Engine for seamless analysis.
-Handling probabilities in classification to enhance accuracy and reliability of results.
-Testing the dataset and semantic querying approach in various applications to explore its full potential.
+- Integration of semantic querying framework directly into Google Earth Engine for seamless analysis.
+- Handling probabilities in classification to enhance accuracy and reliability of results.
+- Testing the dataset and semantic querying approach in various applications to explore its full potential.
 
 ## References
 [1] C. F. Brown et al., “Dynamic World, Near real-time global 10 m land use land cover mapping,” Sci Data, vol. 9, no. 1, p.251, 2022, doi: 10.1038/s41597-022-01307-4.
+
 [2] M. Sudmanns, H. Augustin, L. van der Meer, A. Baraldi, and D. Tiede, “The Austrian Semantic EO Data Cube Infrastructure,” Remote Sensing, vol. 13, no. 23, p. 4807, 2021, doi: 10.3390/rs13234807.
 

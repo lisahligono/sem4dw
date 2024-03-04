@@ -5,14 +5,17 @@ This is a LULC dataset provided by Google and the World Resources Institute. The
 
 <div style="display: flex;">
 <img width="252" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/23aaf634-191d-4941-8dd7-ddb2e6a69f23"> 
-<img width="420" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
+<img width="415" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
 </div>
 
 ## Objective
 The main objective of this project is to showcase how semantic querying can enhance the analysis of the Dynamic World dataset beyond simple mode-based temporal reduction. By employing semantic querying techniques, users can perform more complex spatial and temporal analysis, unlocking new insights and possibilities for utilizing the dataset.
 
 ## Methodology
+
+<p align="center">
 <img width="485" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/8db2bf6f-a28c-41f8-96d8-8db5819ebb28">
+</p>
 
 **Concept:**
 

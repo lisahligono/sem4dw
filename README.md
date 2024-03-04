@@ -14,15 +14,21 @@ The main objective of this project is to showcase how semantic querying can enha
 ## Methodology
 <img width="485" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/8db2bf6f-a28c-41f8-96d8-8db5819ebb28">
 
-
 **Concept:**
+
 ![test](https://github.com/lisahligono/sem4dw/assets/72496335/09650349-3e25-42c4-b1f0-194589d6cddb)
 
+## Preliminary results
 
+![TrCrGr](https://github.com/lisahligono/sem4dw/assets/72496335/0b9b9ae8-1b85-4348-9127-bb3521bd19c0)
 
-
-## Future Directions:
+## Future Directions
 
 Integration of semantic querying framework directly into Google Earth Engine for seamless analysis.
 Handling probabilities in classification to enhance accuracy and reliability of results.
 Testing the dataset and semantic querying approach in various applications to explore its full potential.
+
+## References
+[1] C. F. Brown et al., “Dynamic World, Near real-time global 10 m land use land cover mapping,” Sci Data, vol. 9, no. 1, p.251, 2022, doi: 10.1038/s41597-022-01307-4.
+[2] M. Sudmanns, H. Augustin, L. van der Meer, A. Baraldi, and D. Tiede, “The Austrian Semantic EO Data Cube Infrastructure,” Remote Sensing, vol. 13, no. 23, p. 4807, 2021, doi: 10.3390/rs13234807.
+

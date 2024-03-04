@@ -4,7 +4,7 @@
 This is a LULC dataset provided by Google and the World Resources Institute. The Dynamic World dataset offers near real-time global Sentinel-2 land use/land cover (LULC) mapping, generated using a Fully Convolutional Neural Network (FCNN).
 
 <div style="display: flex;">
-<img width="354" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/23aaf634-191d-4941-8dd7-ddb2e6a69f23"> 
+<img width="360" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/23aaf634-191d-4941-8dd7-ddb2e6a69f23"> 
 <img width="600" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
 </div>
 

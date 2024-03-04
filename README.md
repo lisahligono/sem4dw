@@ -8,16 +8,12 @@ This is a LULC dataset provided by Google and the World Resources Institute. The
 <img width="600" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/9fbf7b28-5497-4819-8133-8a9f5894a8c6">
 </div>
 
-
-
-
 ## Objective
 The main objective of this project is to showcase how semantic querying can enhance the analysis of the Dynamic World dataset beyond simple mode-based temporal reduction. By employing semantic querying techniques, users can perform more complex spatial and temporal analysis, unlocking new insights and possibilities for utilizing the dataset.
 
 ## Methodology
+<img width="485" alt="image" src="https://github.com/lisahligono/sem4dw/assets/72496335/8db2bf6f-a28c-41f8-96d8-8db5819ebb28">
 
-Semantic Earth Observation (EO) Data Cube: The project builds upon the concept of semantic EO data cubes, which provide categorical information for each observation, enabling users to query data based on semantics.
-Implementation: The project utilizes the semantique Python package for semantic querying of the Dynamic World dataset. Semantique is a generic tool designed for querying various types of image categorization data.
 
 Implementation Steps:
 

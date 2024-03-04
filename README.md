@@ -16,8 +16,8 @@ The main objective of this project is to showcase how semantic querying can enha
 
 
 **Concept:**
+![test](https://github.com/lisahligono/sem4dw/assets/72496335/09650349-3e25-42c4-b1f0-194589d6cddb)
 
-![test](https://github.com/lisahligono/sem4dw/assets/72496335/e8a1f5a1-430c-4e34-8779-818635b9362e)
 
 
 

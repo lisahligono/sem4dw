@@ -1,1 +1,1 @@
-# AN ADVANCED FRAMEWORK FOR SEMANTIC QUERYING OF THE DYNAMIC WORLD DATASET
+## An avanced framework for semantic querying ot the dynamic world dataset
